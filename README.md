@@ -1,6 +1,6 @@
 # Portfolio
 This is a portfolio website which is currently built using HTML and CSS.
-It is hoted using GITHUB Pages.
+It is hosted using GITHUB Pages.
 
 ## Features
 1)Home
